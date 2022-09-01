@@ -11,7 +11,7 @@ library(colorspace)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-*Brian Folkers (bdf676)*
+*Brian Folkers*
 
 This is the dataset used in this project:
 
