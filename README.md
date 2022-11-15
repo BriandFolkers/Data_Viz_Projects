@@ -1,2 +1,7 @@
-# Data_Viz_Projects
-Projects for Spring 2022 Data Visualization course
+# Data Visualization Projects
+
+## Project 1: Olympics Dataset
+
+## Project 2: Mt. Everest Dataset
+
+## Project 3: Transit Cost
